@@ -1,0 +1,11 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When I intialize a repository git creates a hidden git file, you need to do it because it tells git to make it a git repository 
+
+new cammonds =
+
+git init
+git add
+git status
+staging area
+working directory
