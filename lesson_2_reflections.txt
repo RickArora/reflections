@@ -9,3 +9,27 @@ git add
 git status
 staging area
 working directory
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+
+It gives you a chance to make the choices you want in terms of which files you would like to add to the repository. 
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+you can see what changes were made in the staging area, the exact ones and count how many logical changes have occured. 
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches could help you keep certain versions of the game saved as-is, example: chinese, japense, OR easy mode, hard mode, OR Different sound mode, OR different background ETC.
+
+
+How do the diagrams help you visualize the branch structure?
+
+
+Diagrams help me visualize the branch structure by giving me a visual representation of what the branches hypthetically look like, hence it helps with visualization.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+
+The result or merging the two branches is both features of the branches are merged together, The diagram accuratly depicts that.
