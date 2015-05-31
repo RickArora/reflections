@@ -1,1 +1,5 @@
 Contents of Lesson 3 will be posted here :D I can't believe I'm actually learning Git!!
+
+When would you want to use a remote repository rather than keeping all your work local?
+
+when I would like to have my work saved online, as a backup or if I want to callaborate with other people.
