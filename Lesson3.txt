@@ -7,3 +7,7 @@ when I would like to have my work saved online, as a backup or if I want to call
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 So you know you always have the current & most up to date version of your file, when you need it.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks are someone elses work on github that you are making a copy of and modifying it for your owns needs it gets put directly into github, clones are a copy of a github repository aswell but they don't get hosted directly onto your github when you clone it is local, branches are different versions of the same file, for example a game in a different language or an easier/harder version of the game, or the game with another background etc. You choose one instead of the other based off of your goals. 
